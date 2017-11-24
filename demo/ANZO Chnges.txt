@@ -1,0 +1,14 @@
+Anzo -- Changes.
+
+Sub category layout.
+
+Remove Backgroud listing.
+
+
+
+
+Front..End.
+
+Header page gallery option not working.
+
+
